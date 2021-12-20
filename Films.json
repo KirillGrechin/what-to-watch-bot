@@ -1,0 +1,212 @@
+{
+  "/comedies": [
+    {
+      "id": "/cf1",
+      "name": "Очень страшное кино",
+      "year": "2000",
+      "rating": "7.0",
+      "limit": "16+",
+      "trailer": "https://www.kinopoisk.ru/film/5932/"
+    },
+    {
+      "id": "/cf2",
+      "name" : "Тупой и еще тупее",
+      "year": "1994",
+      "rating": "7.3",
+      "limit": "16+",
+      "trailer" : "https://www.kinopoisk.ru/film/5185/"
+    },
+    {
+      "id": "/cf3",
+      "name" : "Большой Лебовски",
+      "year": "1998",
+      "rating": "7.8",
+      "limit": "18+",
+      "trailer" : "https://www.kinopoisk.ru/film/555/"
+    },
+    {
+      "id": "/cf4",
+      "name" : "Мы - Миллеры",
+      "year": "2013",
+      "rating": "7.3",
+      "limit": "16+",
+      "trailer" : "https://www.kinopoisk.ru/film/582170/"
+    },
+    {
+      "id": "/cf5",
+      "name" : "Однажды в Ирландии",
+      "year": "2011",
+      "rating": "7.6",
+      "limit": "16+",
+      "trailer" : "https://www.kinopoisk.ru/film/484474/"
+    }
+  ],
+  "/dramas": [
+    {
+      "id": "/df1",
+      "name": "1+1",
+      "year": "2011",
+      "rating": "8.8",
+      "limit": "16+",
+      "trailer": "https://www.kinopoisk.ru/film/535341/"
+    },
+    {
+      "id": "/df2",
+      "name": "Побег из Шоушенка",
+      "year": "1994",
+      "rating": "9.1",
+      "limit": "16+",
+      "trailer": "https://www.kinopoisk.ru/film/326/"
+    },
+    {
+      "id": "/df3",
+      "name": "Волк с Уолл-стрит",
+      "year": "2013",
+      "rating": "7.9",
+      "limit": "18+",
+      "trailer": "https://www.kinopoisk.ru/film/462682/"
+    },
+    {
+      "id": "/df4",
+      "name": "Брат",
+      "year": "1997",
+      "rating": "8.2",
+      "limit": "18+",
+      "trailer": "https://www.kinopoisk.ru/film/41519/"
+    },
+    {
+      "id": "/df5",
+      "name": "Форрест Гамп",
+      "year": "1994",
+      "rating": "8.9",
+      "limit": "12+",
+      "trailer": "https://www.kinopoisk.ru/film/448/"
+    }
+  ],
+  "/thrillers": [
+    {
+      "id": "/tf1",
+      "name": "Брат 2",
+      "year": "2000",
+      "rating": "8.1",
+      "limit": "16+",
+      "trailer": "https://www.kinopoisk.ru/film/41520/"
+    },
+    {
+      "id": "/tf2",
+      "name": "Гнев человеческий",
+      "year": "2021",
+      "rating": "7.6",
+      "limit": "18+",
+      "trailer": "https://www.kinopoisk.ru/film/1318972/"
+    },
+    {
+      "id": "/tf3",
+      "name": "Леон",
+      "year": "1994",
+      "rating": "8.7",
+      "limit": "16+",
+      "trailer": "https://www.kinopoisk.ru/film/389/"
+    },
+    {
+      "id": "/tf4",
+      "name": "Шерлок Холмс",
+      "year": "2009",
+      "rating": "8.1",
+      "limit": "12+",
+      "trailer": "https://www.kinopoisk.ru/film/420923/"
+    },
+    {
+      "id": "/tf5",
+      "name": "Карты, деньги, два ствола",
+      "year": "1998",
+      "rating": "8.6",
+      "limit": "18+",
+      "trailer": "https://www.kinopoisk.ru/film/522/"
+    }
+  ],
+  "/horrors": [
+    {
+      "id": "/hf1",
+      "name": "Оно",
+      "year": "2017",
+      "rating": "7.3",
+      "limit": "18+",
+      "trailer": "https://www.kinopoisk.ru/film/453397/"
+    },
+    {
+      "id": "/hf2",
+      "name": "Чужой",
+      "year": "1979",
+      "rating": "8.1",
+      "limit": "16+",
+      "trailer": "https://www.kinopoisk.ru/film/386/"
+    },
+    {
+      "id": "/hf3",
+      "name": "Прочь",
+      "year": "2017",
+      "rating": "7.1",
+      "limit": "18+",
+      "trailer": "https://www.kinopoisk.ru/film/944708/"
+    },
+    {
+      "id": "/hf4",
+      "name": "Сайлент Хилл",
+      "year": "2006",
+      "rating": "7.2",
+      "limit": "18+",
+      "trailer": "https://www.kinopoisk.ru/film/78871/"
+    },
+    {
+      "id": "/hf5",
+      "name": "Заклятие",
+      "year": "2013",
+      "rating": "7.4",
+      "limit": "16+",
+      "trailer": "https://www.kinopoisk.ru/film/468994/"
+    }
+  ],
+  "/detectives": [
+    {
+      "id": "/def1",
+      "name": "Достать ножи",
+      "year": "2019",
+      "rating": "8.0",
+      "limit": "16+",
+      "trailer": "https://www.kinopoisk.ru/film/1188529/"
+    },
+    {
+      "id": "/def2",
+      "name": "Шестое чувство",
+      "year": "1999",
+      "rating": "8.2",
+      "limit": "12+",
+      "trailer": "https://www.kinopoisk.ru/film/468994/"
+    },
+    {
+      "id": "/def3",
+      "name": "Шерлок",
+      "year": "2010-2017",
+      "rating": "8.9",
+      "limit": "12+",
+      "trailer": "https://www.kinopoisk.ru/series/502838/"
+    },
+    {
+      "id": "/def4",
+      "name": "Настоящий детектив",
+      "year": "2014-2019",
+      "rating": "8.7",
+      "limit": "18+",
+      "trailer": "https://www.kinopoisk.ru/series/681831/"
+    },
+    {
+      "id": "/def5",
+      "name": "Воздушный маршалл",
+      "year": "2014",
+      "rating": "7.2",
+      "limit": "12+",
+      "trailer": "https://www.kinopoisk.ru/film/606826/"
+    }
+  ]
+}

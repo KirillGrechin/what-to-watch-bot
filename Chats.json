@@ -1,0 +1,54 @@
+[
+   {
+      "films": [{}],
+      "id": "1234"
+   },
+   {
+      "films": [],
+      "id": "12324"
+   },
+   {
+      "films": [{
+         "trailer": "https://www.kinopoisk.ru/film/41520/",
+         "year": "2000",
+         "name": "Брат 2",
+         "rating": "8.1",
+         "limit": "16+",
+         "id": "/tf1"
+      }],
+      "id": "123214"
+   },
+   {
+      "films": [
+         {
+            "trailer": "https://www.kinopoisk.ru/film/522/",
+            "year": "1998",
+            "name": "Карты, деньги, два ствола",
+            "rating": "8.6",
+            "limit": "18+",
+            "id": "/tf5"
+         },
+         {
+            "trailer": "https://www.kinopoisk.ru/film/41520/",
+            "year": "2000",
+            "name": "Брат 2",
+            "rating": "8.1",
+            "limit": "16+",
+            "id": "/tf1"
+         },
+         {
+            "trailer": "https://www.kinopoisk.ru/film/453397/",
+            "year": "2017",
+            "name": "Оно",
+            "rating": "7.3",
+            "limit": "18+",
+            "id": "/hf1"
+         }
+      ],
+      "id": "1317214567"
+   },
+   {
+      "films": [],
+      "id": "12356789"
+   }
+]

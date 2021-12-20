@@ -1,0 +1,4 @@
+CommandsTests\BotCommandsTest.class
+CommandsTests\FilmsCommandsTest.class
+CommandsTests\BotCallbacksTest.class
+JsonTests\JsonTest.class
